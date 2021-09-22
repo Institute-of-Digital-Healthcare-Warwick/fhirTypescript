@@ -4,16 +4,14 @@ import { CodeableConcept } from "./CodeableConcept.ts";
 import { ContactPoint } from "./ContactPoint.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { AdministrativeGender, date, dateTime, integer } from "./FhirTypes.ts";
+import { AdministrativeGender, date, dateTime, integer } from "../Types/FhirTypes.ts";
 import { HumanName } from "./HumanName.ts";
 import { Identifier } from "./Identifier.ts";
 import { PatientAnimal } from "./PatientAnimal.ts";
-import { PatientCommunication } from "./PatientComunication.ts";
+import { PatientCommunication } from "./PatientCommunication.ts";
 import { PatientContact } from "./PatientContact.ts";
 import { PatientLink } from "./PatientLink.ts";
 import { Reference } from "./Reference.ts";
-
-
 
 
 /**

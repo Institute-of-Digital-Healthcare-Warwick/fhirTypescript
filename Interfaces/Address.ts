@@ -1,5 +1,5 @@
+import { AddressUse,AddressType } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { AddressType, AddressUse } from "./FhirTypes.ts";
 import { Period } from "./Period.ts";
 
 

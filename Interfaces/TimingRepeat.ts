@@ -1,6 +1,6 @@
 import { Duration } from "./Duration.ts";
 import { Element } from "./Element.ts";
-import { code, DaysOfWeek, decimal, integer, time, UnitsOfTime, unsignedInt } from "./FhirTypes.ts";
+import { code, DaysOfWeek, decimal, integer, time, UnitsOfTime, unsignedInt } from "../Types/FhirTypes.ts";
 import { Period } from "./Period.ts";
 import { Range } from "./Range.ts";
 

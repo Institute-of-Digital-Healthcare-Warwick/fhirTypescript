@@ -1,5 +1,5 @@
+import { code } from "../Types/FhirTypes.ts";
 import { BackboneElement } from "./BackboneElement.ts";
-import { code } from "./FhirTypes.ts";
 
 
 /**

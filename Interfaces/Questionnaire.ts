@@ -1,9 +1,9 @@
+import { uri,PublicationStatus,dateTime,markdown,date,code } from "../Types/FhirTypes.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Coding } from "./Coding.ts";
 import { ContactDetail } from "./ContactDetail.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { code, date, dateTime, markdown, PublicationStatus, uri } from "./FhirTypes.ts";
 import { Identifier } from "./Identifier.ts";
 import { Period } from "./Period.ts";
 import { QuestionnaireItem } from "./QuestionnaireItem.ts";

@@ -2,8 +2,6 @@ import { Element } from "./Element.ts";
 import { Identifier } from "./Identifier.ts";
 
 
-
-
 /**
  * A reference from one resource to another
  */

@@ -1,8 +1,6 @@
+import { uri } from "../Types/FhirTypes.ts";
 import { BackboneElement } from "./BackboneElement.ts";
 import { Element } from "./Element.ts";
-import { uri } from "./FhirTypes.ts";
-
-
 
 
 /**

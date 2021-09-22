@@ -1,5 +1,5 @@
 import { DomainResource } from "./DomainResource.ts";
-import { instant } from "./FhirTypes.ts";
+import { instant } from "../Types/FhirTypes.ts";
 import { Identifier } from "./Identifier.ts";
 import { Practitioner } from "./Practitioner.ts";
 import { Reference } from "./Reference.ts";

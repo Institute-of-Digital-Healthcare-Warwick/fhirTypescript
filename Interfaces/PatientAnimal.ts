@@ -2,8 +2,6 @@ import { BackboneElement } from "./BackboneElement.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 
 
-
-
 /**
  * This patient is known to be an animal (non-human)
  */

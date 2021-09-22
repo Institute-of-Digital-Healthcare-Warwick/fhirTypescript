@@ -1,9 +1,7 @@
 import { BackboneElement } from "./BackboneElement.ts";
 import { Element } from "./Element.ts";
-import { ConsentDataMeaning } from "./FhirTypes.ts";
+import { ConsentDataMeaning } from "../Types/FhirTypes.ts";
 import { Reference } from "./Reference.ts";
-
-
 
 
 /**

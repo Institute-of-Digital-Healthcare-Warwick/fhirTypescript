@@ -1,5 +1,5 @@
+import { ContactPointSystem,ContactPointUse,positiveInt } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { ContactPointSystem, ContactPointUse, positiveInt } from "./FhirTypes.ts";
 import { Period } from "./Period.ts";
 
 

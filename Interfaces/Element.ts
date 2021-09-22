@@ -1,8 +1,6 @@
 import { Extension } from "./Extension.ts";
 
 
-
-
 /**
  * Base for all elements
  */

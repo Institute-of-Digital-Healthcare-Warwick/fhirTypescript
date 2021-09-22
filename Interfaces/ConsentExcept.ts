@@ -4,10 +4,8 @@ import { Coding } from "./Coding.ts";
 import { ConsentExceptActor } from "./ConsentExceptActor.ts";
 import { ConsentExceptData } from "./ConsentExceptData.ts";
 import { Element } from "./Element.ts";
-import { ConsentExceptType } from "./FhirTypes.ts";
+import { ConsentExceptType } from "../Types/FhirTypes.ts";
 import { Period } from "./Period.ts";
-
-
 
 
 /**

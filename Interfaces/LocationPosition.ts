@@ -1,8 +1,6 @@
 import { BackboneElement } from "./BackboneElement.ts";
 import { Element } from "./Element.ts";
-import { decimal } from "./FhirTypes.ts";
-
-
+import { decimal } from "../Types/FhirTypes.ts";
 
 
 /**

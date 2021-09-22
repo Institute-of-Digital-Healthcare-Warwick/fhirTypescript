@@ -1,7 +1,7 @@
 import { DomainResource } from "./DomainResource.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Element } from "./Element.ts";
-import { uri, PublicationStatus, OperationKind, dateTime, markdown, code } from "./FhirTypes.ts";
+import { PublicationStatus, OperationKind, dateTime, code, markdown, uri } from "../Types/FhirTypes.ts";
 import { OperationDefinitionOverload } from "./OperationDefinitionOverload.ts";
 import { Reference } from "./Reference.ts";
 import { ContactDetail } from "./ContactDetail.ts";

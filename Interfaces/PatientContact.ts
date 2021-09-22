@@ -3,7 +3,7 @@ import { BackboneElement } from "./BackboneElement.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { ContactPoint } from "./ContactPoint.ts";
 import { Element } from "./Element.ts";
-import { AdministrativeGender } from "./FhirTypes.ts";
+import { AdministrativeGender } from "../Types/FhirTypes.ts";
 import { HumanName } from "./HumanName.ts";
 import { Period } from "./Period.ts";
 import { Reference } from "./Reference.ts";

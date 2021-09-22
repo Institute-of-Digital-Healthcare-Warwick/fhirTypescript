@@ -2,8 +2,6 @@ import { ContactPoint } from "./ContactPoint.ts";
 import { Element } from "./Element.ts";
 
 
-
-
 /**
  * Contact information
  */

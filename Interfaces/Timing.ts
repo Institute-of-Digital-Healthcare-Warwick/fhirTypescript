@@ -1,7 +1,7 @@
 import { Element } from "./Element.ts";
 import { TimingRepeat } from "./TimingRepeat.ts";
-import { dateTime } from "./FhirTypes.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
+import { dateTime } from "../Types/FhirTypes.ts";
 
 
 /**

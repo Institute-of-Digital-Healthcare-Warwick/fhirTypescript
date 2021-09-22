@@ -1,9 +1,7 @@
 import { BackboneElement } from "./BackboneElement.ts";
 import { Element } from "./Element.ts";
-import { LinkType } from "./FhirTypes.ts";
+import { LinkType } from "../Types/FhirTypes.ts";
 import { Reference } from "./Reference.ts";
-
-
 
 
 /**

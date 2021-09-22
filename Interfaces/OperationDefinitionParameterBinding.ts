@@ -1,6 +1,6 @@
 import { BackboneElement } from "./BackboneElement.ts";
 import { Element } from "./Element.ts";
-import { BindingStrength, uri } from "./FhirTypes.ts";
+import { BindingStrength, uri } from "../Types/FhirTypes.ts";
 import { Reference } from "./Reference.ts";
 
 

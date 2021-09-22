@@ -1,5 +1,5 @@
+import { decimal,positiveInt } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { decimal, positiveInt } from "./FhirTypes.ts";
 import { Quantity } from "./Quantity.ts";
 
 

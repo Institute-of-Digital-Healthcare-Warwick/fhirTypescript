@@ -1,7 +1,7 @@
 import { BackboneElement } from "./BackboneElement.ts";
 import { Element } from "./Element.ts";
-import { code, OperationParameterUse, integer, SearchParamType } from "./FhirTypes.ts";
-import { OperationDefinitionParameterBinding } from "./OperationaDefinitionParameterBinding.ts";
+import { OperationParameterUse, integer, SearchParamType, code } from "../Types/FhirTypes.ts";
+import { OperationDefinitionParameterBinding } from "./OperationDefinitionParameterBinding.ts";
 import { Reference } from "./Reference.ts";
 
 

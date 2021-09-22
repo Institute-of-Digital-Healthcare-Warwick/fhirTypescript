@@ -4,13 +4,11 @@ import { CodeableConcept } from "./CodeableConcept.ts";
 import { ContactPoint } from "./ContactPoint.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { AdministrativeGender, date } from "./FhirTypes.ts";
+import { AdministrativeGender, date } from "../Types/FhirTypes.ts";
 import { HumanName } from "./HumanName.ts";
 import { Identifier } from "./Identifier.ts";
 import { Period } from "./Period.ts";
 import { Reference } from "./Reference.ts";
-
-
 
 
 /**

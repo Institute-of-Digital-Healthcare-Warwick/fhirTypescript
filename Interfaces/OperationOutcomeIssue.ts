@@ -1,7 +1,7 @@
+import { IssueSeverity,code } from "../Types/FhirTypes.ts";
 import { BackboneElement } from "./BackboneElement.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Element } from "./Element.ts";
-import { code, IssueSeverity } from "./FhirTypes.ts";
 
 
 /**

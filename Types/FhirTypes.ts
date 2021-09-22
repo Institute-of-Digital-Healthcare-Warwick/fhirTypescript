@@ -1,4 +1,4 @@
-import { Coding } from "./Coding.ts";
+import { Coding } from "../Interfaces/Coding.ts";
 
 
 /**
@@ -1433,3 +1433,39 @@ export type VisionEyes = "right" | "left";
 * A coded concept listing the base codes
 */
 export type VisionBase = "up" | "down" | "in" | "out";
+/**
+ * Issue Type
+ * 
+ * http://hl7.org/fhir/issue-type 
+ */
+ export type IssueType = "invalid"
+ | "structure"
+ | "required"
+ | "value"
+ | "invariant"
+ | "security"
+ | "login"
+ | "unknown"
+ | "expired"
+ | "forbidden"
+ | "suppressed"
+ | "processing"
+ | "not-supported"
+ | "duplicate"
+ | "multiple-matches"
+ | "not-found"
+ | "deleted"
+ | "too-long"
+ | "code-invalid"
+ | "extension"
+ | "too-costly"
+ | "business-rule"
+ | "conflict"
+ | "transient"
+ | "lock-error"
+ | "no-store"
+ | "exception"
+ | "timeout"
+ | "incomplete"
+ | "throttled"
+ | "informational";

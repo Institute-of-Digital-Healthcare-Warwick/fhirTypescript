@@ -1,7 +1,8 @@
+import { instant,uri,code,base64Binary } from "../Types/FhirTypes.ts";
 import { Coding } from "./Coding.ts";
 import { Element } from "./Element.ts";
-import { instant, uri, code, base64Binary } from "./FhirTypes.ts";
 import { Reference } from "./Reference.ts";
+
 
 /**
  * A digital Signature - XML DigSig, JWT, Graphical image of signature, etc.

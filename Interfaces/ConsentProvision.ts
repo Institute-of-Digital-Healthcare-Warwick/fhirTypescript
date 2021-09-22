@@ -1,7 +1,7 @@
+import { code } from "../Types/FhirTypes.ts";
 import { BackboneElement } from "./BackboneElement.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Coding } from "./Coding.ts";
-import { code } from "./FhirTypes.ts";
 import { Period } from "./Period.ts";
 
 

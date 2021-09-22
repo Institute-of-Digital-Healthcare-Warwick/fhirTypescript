@@ -7,7 +7,7 @@ import { ConsentExcept } from "./ConsentExcept.ts";
 import { ConsentPolicy } from "./ConsentPolicy.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { ConsentState, dateTime, uri } from "./FhirTypes.ts";
+import { ConsentState, dateTime } from "../Types/FhirTypes.ts";
 import { Identifier } from "./Identifier.ts";
 import { Period } from "./Period.ts";
 import { Reference } from "./Reference.ts";

@@ -1,3 +1,4 @@
+import { uri,base64Binary,code,date,dateTime,decimal,id,instant,integer,markdown,oid,positiveInt,time,unsignedInt } from "../Types/FhirTypes.ts";
 import { Address } from "./Address.ts";
 import { Age } from "./Age.ts";
 import { Annotation } from "./Annotation.ts";
@@ -9,7 +10,6 @@ import { Count } from "./Count.ts";
 import { Distance } from "./Distance.ts";
 import { Duration } from "./Duration.ts";
 import { Element } from "./Element.ts";
-import { base64Binary, code, date, dateTime, decimal, id, instant, integer, markdown, oid, positiveInt, time, unsignedInt, uri } from "./FhirTypes.ts";
 import { HumanName } from "./HumanName.ts";
 import { Identifier } from "./Identifier.ts";
 import { Meta } from "./Meta.ts";

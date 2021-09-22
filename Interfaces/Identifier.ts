@@ -1,8 +1,8 @@
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Element } from "./Element.ts";
-import { IdentifierUse, uri } from "./FhirTypes.ts";
 import { Period } from "./Period.ts";
 import { Reference } from "./Reference.ts";
+import { IdentifierUse, uri } from "../Types/FhirTypes.ts";
 
 
 /**

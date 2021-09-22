@@ -2,9 +2,10 @@ import { CodeableConcept } from "./CodeableConcept.ts";
 import { ContactDetail } from "./ContactDetail.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { uri, PublicationStatus, dateTime, markdown, code, SearchParamType, XPathUsageType, SearchComparator, SearchModifierCode } from "./FhirTypes.ts";
+import { PublicationStatus, dateTime, SearchParamType, XPathUsageType, SearchComparator, SearchModifierCode, code, markdown, uri } from "../Types/FhirTypes.ts";
 import { SearchParameterComponent } from "./SearchParameterComponent.ts";
 import { UsageContext } from "./UsageContext.ts";
+
 
 /**
  * Search Parameter for a resource

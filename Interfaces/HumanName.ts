@@ -1,8 +1,6 @@
+import { NameUse } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { NameUse } from "./FhirTypes.ts";
 import { Period } from "./Period.ts";
-
-
 
 
 /**

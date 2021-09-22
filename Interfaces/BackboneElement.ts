@@ -2,8 +2,6 @@ import { Element } from "./Element.ts";
 import { Extension } from "./Extension.ts";
 
 
-
-
 /**
  * Base for elements defined inside a resource
  */

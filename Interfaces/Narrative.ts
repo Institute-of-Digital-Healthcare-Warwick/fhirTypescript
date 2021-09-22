@@ -1,7 +1,5 @@
+import { NarrativeStatus } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { NarrativeStatus } from "./FhirTypes.ts";
-
-
 
 
 /**

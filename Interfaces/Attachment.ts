@@ -1,5 +1,5 @@
+import { code,base64Binary,uri,unsignedInt,dateTime } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { base64Binary, code, dateTime, unsignedInt, uri } from "./FhirTypes.ts";
 
 
 /**

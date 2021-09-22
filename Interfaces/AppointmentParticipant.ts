@@ -1,7 +1,7 @@
 import { BackboneElement } from "./BackboneElement.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Element } from "./Element.ts";
-import { ParticipantRequired, ParticipationStatus } from "./FhirTypes.ts";
+import { ParticipantRequired, ParticipationStatus } from "../Types/FhirTypes.ts";
 import { Reference } from "./Reference.ts";
 
 

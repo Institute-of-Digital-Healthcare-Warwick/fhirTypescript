@@ -1,8 +1,6 @@
+import { id, instant, uri } from "../Types/FhirTypes.ts";
 import { Coding } from "./Coding.ts";
 import { Element } from "./Element.ts";
-import { id, instant, uri } from "./FhirTypes.ts";
-
-
 
 /**
  * Metadata about a resource

@@ -3,8 +3,6 @@ import { CodeableConcept } from "./CodeableConcept.ts";
 import { Reference } from "./Reference.ts";
 
 
-
-
 /**
  * Who|what controlled by this exception (or group, by role)
  */

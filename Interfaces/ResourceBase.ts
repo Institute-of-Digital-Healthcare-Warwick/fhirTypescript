@@ -1,8 +1,6 @@
+import { code,id,uri } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { code, id, uri } from "./FhirTypes.ts";
 import { Meta } from "./Meta.ts";
-
-
 
 
 /**

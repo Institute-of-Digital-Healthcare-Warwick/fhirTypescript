@@ -1,13 +1,11 @@
-import { AppointmentParticipant } from "./AppointmentParticipation.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { AppointmentStatus, unsignedInt, instant, positiveInt, dateTime } from "./FhirTypes.ts";
+import { AppointmentStatus, instant, dateTime, positiveInt, unsignedInt } from "../Types/FhirTypes.ts";
 import { Identifier } from "./Identifier.ts";
 import { Period } from "./Period.ts";
 import { Reference } from "./Reference.ts";
-
-
+import { AppointmentParticipant } from "./AppointmentParticipant.ts";
 
 
 /**

@@ -4,7 +4,7 @@ import { Coding } from "./Coding.ts";
 import { ContactPoint } from "./ContactPoint.ts";
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { LocationStatus, LocationMode } from "./FhirTypes.ts";
+import { LocationStatus, LocationMode } from "../Types/FhirTypes.ts";
 import { Identifier } from "./Identifier.ts";
 import { LocationPosition } from "./LocationPosition.ts";
 import { Reference } from "./Reference.ts";

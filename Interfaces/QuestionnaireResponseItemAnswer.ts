@@ -2,7 +2,7 @@ import { Attachment } from "./Attachment.ts";
 import { BackboneElement } from "./BackboneElement.ts";
 import { Coding } from "./Coding.ts";
 import { Element } from "./Element.ts";
-import { date, dateTime, decimal, integer, time, uri } from "./FhirTypes.ts";
+import { date, dateTime, decimal, integer, time, uri } from "../Types/FhirTypes.ts";
 import { Quantity } from "./Quantity.ts";
 import { QuestionnaireResponseItem } from "./QuestionnaireResponseItem.ts";
 import { Reference } from "./Reference.ts";

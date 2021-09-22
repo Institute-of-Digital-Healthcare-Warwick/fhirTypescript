@@ -1,7 +1,5 @@
+import { uri,code } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { code, uri } from "./FhirTypes.ts";
-
-
 
 
 /**

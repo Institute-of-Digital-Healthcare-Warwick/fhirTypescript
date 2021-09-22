@@ -1,5 +1,5 @@
 import { Element } from "./Element.ts";
-import { code, decimal, QuantityComparator, uri } from "./FhirTypes.ts";
+import { code,decimal,QuantityComparator,uri } from "../Types/FhirTypes.ts";
 
 
 /**

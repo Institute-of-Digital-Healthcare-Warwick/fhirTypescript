@@ -5,8 +5,6 @@ import { Period } from "./Period.ts";
 import { Reference } from "./Reference.ts";
 
 
-
-
 /**
  * Qualifications obtained by training and certification
  */

@@ -5,8 +5,6 @@ import { Quantity } from "./Quantity.ts";
 import { Range } from "./Range.ts";
 
 
-
-
 /**
  * Describes the context of use for a conformance or knowledge resource
  */

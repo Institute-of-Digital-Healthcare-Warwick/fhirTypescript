@@ -1,11 +1,9 @@
 import { DomainResource } from "./DomainResource.ts";
 import { Element } from "./Element.ts";
-import { dateTime, QuestionnaireResponseStatus } from "./FhirTypes.ts";
+import { dateTime, QuestionnaireResponseStatus } from "../Types/FhirTypes.ts";
 import { Identifier } from "./Identifier.ts";
 import { QuestionnaireResponseItem } from "./QuestionnaireResponseItem.ts";
 import { Reference } from "./Reference.ts";
-
-
 
 
 /**

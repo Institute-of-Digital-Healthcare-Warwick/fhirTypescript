@@ -1,5 +1,6 @@
+
+import { dateTime } from "../Types/FhirTypes.ts";
 import { Element } from "./Element.ts";
-import { dateTime } from "./FhirTypes.ts";
 import { Reference } from "./Reference.ts";
 
 
