@@ -1,4 +1,4 @@
-import { IssueSeverity,code } from "../Types/FhirTypes.ts";
+import { IssueSeverity,code, IssueType } from "../Types/FhirTypes.ts";
 import { BackboneElement } from "./BackboneElement.ts";
 import { CodeableConcept } from "./CodeableConcept.ts";
 import { Element } from "./Element.ts";
@@ -23,7 +23,7 @@ export interface OperationOutcomeIssue extends BackboneElement {
 	/**
 	 * Error or warning code
 	 */
-	code: code;
+	code: IssueType;
 
 
 	/**
