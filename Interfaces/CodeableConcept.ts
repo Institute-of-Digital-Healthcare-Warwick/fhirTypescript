@@ -22,4 +22,9 @@ export interface CodeableConcept extends Element {
 	 * Contains extended information for property 'text'.
 	 */
 	_text?: Element;
+    
+    /**
+     * Skip SIS transformation
+     */
+    sisIgnore?: boolean;
 }
