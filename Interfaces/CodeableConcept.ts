@@ -32,4 +32,9 @@ export interface CodeableConcept extends Element {
      * SIS should destroy the resource bundle if codeable concept is empty after mapping
      */
     sisDestroyIfEmpty?: boolean;
+    
+    /**
+     * SIS should destroy the resource
+     */
+    sisDestroy?: boolean;
 }
