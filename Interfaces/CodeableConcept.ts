@@ -27,4 +27,9 @@ export interface CodeableConcept extends Element {
      * Skip SIS transformation
      */
     sisIgnore?: boolean;
+    
+    /**
+     * SIS should destroy the resource bundle if codeable concept is empty after mapping
+     */
+    sisDestroyIfEmpty?: boolean;
 }
